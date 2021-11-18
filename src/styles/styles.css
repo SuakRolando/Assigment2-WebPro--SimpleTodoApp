@@ -1,0 +1,18 @@
+.text-color {
+  color: #757575;
+}
+
+.bg-lilac {
+  background-color: #c8a2c8 !important;
+}
+
+.bg-full {
+  background-color: rgb(240, 240, 240);
+  min-height: 100%;
+  min-width: 100%;
+  position: fixed;
+}
+
+.b-col {
+  color: #c8a2c8;
+}
