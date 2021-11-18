@@ -45,7 +45,6 @@ function Todos() {
           <div className="col-auto me-2">
             <p
               type="text"
-              readonly
               className="form-control-plaintext fw-bold fs-4 text-color"
             >Add Your Todo</p>
           </div>
